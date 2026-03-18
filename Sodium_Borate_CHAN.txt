@@ -144,7 +144,7 @@ $S Methodoptions V1.1
 off	2	off	Identification 1	Identification 2	on	on	off	1.0	g	off	0	9999999999	off	30 s	on		off	on	External memory 1	TEST	Identification 1	off	on	off	on	on	no	**************	on	off
 $E
 $S 01	DET U	Dynamic U titration
-Titrando 1	0.00000 mL	maximum	0 s	off	off	0.2 mL/min	off	0 s	1 s	user	5	10.00 µL	50 µL	maximum	10.0 mV/min	5 s	52 s	25.0 °C	5.0 mL	250.0 mV	9	off	off	maximum	off	5	all	-2000.0 mV	off	off	off	off	off	off	off	off	2000.0 mV	2000.0 mV	2000.0 mV	2000.0 mV	2000.0 mV	2000.0 mV	2000.0 mV	2000.0 mV	2000.0 mV	5	5	5	5	5	5	5	5	5	first	first	first	first	first	first	first	first	first	0.00000 mL	off	off	off	off	off	off	off	off	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	5	5	5	5	5	5	5	5	5	first	first	first	first	first	first	first	first	first	1	NEW pH	off	1	HCl-0.1M for Alkt	1	5	on	off
+Titrando 1	0.00000 mL	maximum	0 s	off	off	0.2 mL/min	off	0 s	1 s	user	5	10.00 ÂµL	50 ÂµL	maximum	10.0 mV/min	5 s	52 s	25.0 Â°C	5.0 mL	250.0 mV	9	off	off	maximum	off	5	all	-2000.0 mV	off	off	off	off	off	off	off	off	2000.0 mV	2000.0 mV	2000.0 mV	2000.0 mV	2000.0 mV	2000.0 mV	2000.0 mV	2000.0 mV	2000.0 mV	5	5	5	5	5	5	5	5	5	first	first	first	first	first	first	first	first	first	0.00000 mL	off	off	off	off	off	off	off	off	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	5	5	5	5	5	5	5	5	5	first	first	first	first	first	first	first	first	first	1	NEW pH	off	1	HCl-0.1M for Alkt	1	5	on	off
 $E
 $E
 $E
